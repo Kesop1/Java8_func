@@ -1,0 +1,13 @@
+target/
+bin/
+.*
+!.gitignore
+rebel.xml
+rebel-remote.xml
+*.iml
+*.log
+diagrams/
+*.pass
+logs/
+src/main/resources/git.properties
+rd.json
